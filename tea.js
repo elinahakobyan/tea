@@ -1,2 +1,3 @@
 console.warn('barev');
-jklfdstghsrhhwh
+let x=5;
+alert(x);
