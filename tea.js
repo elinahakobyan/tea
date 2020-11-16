@@ -1,4 +1,4 @@
 console.warn('barev');
 let x=5;
-alert(x);
-alert(x+13);
+console.log(x);
+console.log(x+13);
